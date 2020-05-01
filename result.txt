@@ -1,0 +1,73 @@
+
+Stare initiala: 
+aaaabbbb
+abbbaabc
+ccccabbc
+aaaacccc
+qqqwwwww
+wwqwwwww
+wqqwwwww
+
+Rezolvarea placutelor se face in 6 pasi
+Pasul: 1
+Cost: 1.4
+aaaa####
+abbbbbb#
+ccccaab#
+aaaaabbb
+qqqwwwww
+wwqwwwww
+wqqwwwww
+
+Pasul: 2
+Cost: 1.0
+########
+aaaabbb#
+abbbaab#
+aaaaabbb
+qqqwwwww
+wwqwwwww
+wqqwwwww
+
+Pasul: 3
+Cost: 1.0
+########
+######b#
+#####bb#
+#bbbbbbb
+qqqwwwww
+wwqwwwww
+wqqwwwww
+
+Pasul: 4
+Cost: 1.0000000000000004
+########
+########
+########
+########
+qqqwwwww
+wwqwwwww
+wqqwwwww
+
+Pasul: 5
+Cost: 1.0
+########
+########
+########
+########
+##wwwww#
+w#wwwww#
+wwwwwww#
+
+Pasul: 6
+Cost: 1.0
+########
+########
+########
+########
+########
+########
+########
+
+Costul total: 6.4
+EXECUTION TIME: 7.483720779418945ms
